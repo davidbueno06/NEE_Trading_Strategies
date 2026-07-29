@@ -1,0 +1,8 @@
+fecha,tipo,descripcion,CAR_5d,percentil_bootstrap
+2014-12-03,ANUNCIO,Anuncio acuerdo NEE-Hawaiian Electric (HEI),-0.028259365402096837,12.08
+2016-07-18,FRACASO,Terminacion acuerdo NEE-HEI (rechazo PUC Hawai),0.009668566933997091,60.18
+2016-07-29,ANUNCIO,Anuncio acuerdo NEE-Oncor (via EFH),-0.017928283488708674,18.94
+2017-04-13,FRACASO,Primer rechazo PUCT Texas al deal Oncor,0.017205827922721184,70.04
+2017-06-07,FRACASO,"Rechazo final PUCT (reconsideracion), deal Oncor muerto",-0.010029704004215656,27.96
+2018-05-21,ANUNCIO,Anuncio acuerdo NEE-Gulf Power (Southern Co.),0.021907565406658724,77.06
+2019-01-01,COMPLETADO,Cierre adquisicion Gulf Power,0.017429133764940374,69.58
