@@ -2,3 +2,7 @@ yfinance
 pandas
 numpy
 matplotlib
+requests	fundamentals_edgar.py lo usa para llamar la API de SEC EDGAR
+pandas-datareader	factors_famafrench.py lo usa para bajar los factores Fama de Ken French Data Library
+scikit-learn	Estrategia 17 (KNN) — asumo que usaste KNeighborsClassifier o similar de sklearn; si usaste otra librería para el KNN, dime y ajusto
+scipy
